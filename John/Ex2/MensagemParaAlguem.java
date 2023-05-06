@@ -1,4 +1,4 @@
-package John;
+package John.Ex2;
 public class MensagemParaAlguem extends Mensagem {
     private String emailDestinatario;
     public MensagemParaAlguem(String texto, String emailRemetente, String emailDestinatario, boolean anonima){

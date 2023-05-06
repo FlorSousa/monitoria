@@ -1,4 +1,4 @@
-package John;
+package John.Ex2;
 
 public class AmigoInexistenteException extends Exception{
     public AmigoInexistenteException(String textoRetorno){

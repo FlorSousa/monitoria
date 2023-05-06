@@ -1,4 +1,4 @@
-package John;
+package John.Ex2;
 public class TestaAmigo {
     public static void main(String[] args){
         SistemaAmigo s = new SistemaAmigo();

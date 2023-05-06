@@ -1,4 +1,4 @@
-package John;
+package John.Ex2;
 import java.util.ArrayList;
 import java.util.List;
 

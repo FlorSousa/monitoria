@@ -1,4 +1,4 @@
-package John;
+package John.Ex2;
 
 public class Mensagem {
     private String texto;
