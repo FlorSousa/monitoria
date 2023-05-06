@@ -1,3 +1,4 @@
+package John;
 
 public class AmigoNaoSorteadoException extends Exception {
     public AmigoNaoSorteadoException(String textoRetorno){

@@ -1,3 +1,4 @@
+package John;
 
 public class Mensagem {
     private String texto;

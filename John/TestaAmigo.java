@@ -1,3 +1,4 @@
+package John;
 public class TestaAmigo {
     public static void main(String[] args){
         SistemaAmigo s = new SistemaAmigo();
